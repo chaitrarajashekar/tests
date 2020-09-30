@@ -1,0 +1,17 @@
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\Web.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\Web.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\Web.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\Web.API\bin\Debug\netcoreapp3.1\Web.API.exe
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\Web.API\bin\Debug\netcoreapp3.1\Web.API.deps.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\Web.API\bin\Debug\netcoreapp3.1\Web.API.runtimeconfig.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\Web.API\bin\Debug\netcoreapp3.1\Web.API.runtimeconfig.dev.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\Web.API\bin\Debug\netcoreapp3.1\Web.API.dll
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\Web.API.csprojAssemblyReference.cache
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\Web.API.AssemblyInfoInputs.cache
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\Web.API.AssemblyInfo.cs
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\Web.API.RazorTargetAssemblyInfo.cache
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\Web.API.csproj.CopyComplete
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\staticwebassets\Web.API.StaticWebAssets.Manifest.cache
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\staticwebassets\Web.API.StaticWebAssets.xml
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\Web.API.dll
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\Web.API\netcoreapp3.1\Web.API.genruntimeconfig.cache

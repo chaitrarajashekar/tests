@@ -1,0 +1,17 @@
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\Web.API.exe
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\CustomerTests.deps.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\CustomerTests.runtimeconfig.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\CustomerTests.runtimeconfig.dev.json
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\b\CustomerTests\Debug\netcoreapp3.1\CustomerTests.dll
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\CustomerTests\Debug\netcoreapp3.1\CustomerTests.AssemblyInfoInputs.cache
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\CustomerTests\Debug\netcoreapp3.1\CustomerTests.AssemblyInfo.cs
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\CustomerTests\Debug\netcoreapp3.1\CustomerTests.csproj.CopyComplete
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\CustomerTests\Debug\netcoreapp3.1\CustomerTests.dll
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\CustomerTests\Debug\netcoreapp3.1\CustomerTests.genruntimeconfig.cache
+C:\Users\ChaitraR\source\repos\slnCustomerService\.vs\slnCustomerService\v16\lut\0\i\CustomerTests\Debug\netcoreapp3.1\CustomerTests.csprojAssemblyReference.cache
